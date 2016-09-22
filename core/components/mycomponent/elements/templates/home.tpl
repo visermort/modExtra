@@ -1,0 +1,1 @@
+<div id="mycomponent-panel-home-div"></div>
